@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vedatvaksry53.github.io/mtproto-proxy-online-2026/sitemap.xml
